@@ -129,11 +129,7 @@ Relevant research papers, books, and articles used in this study.
 
 ### How to Run Simulations
 
-1. Install a Verilog/VHDL simulator (ModelSim, Xilinx ISE, etc.).
-
-2. Navigate to the src/ directory.
-
-3. Run the testbench files to verify ALU operations.
+see the README.md file inside the simulations directory.
 
 ### To-Do:
 
