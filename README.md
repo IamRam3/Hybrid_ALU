@@ -137,7 +137,7 @@ Relevant research papers, books, and articles used in this study.
 
 ### To-Do:
 
-- [ ] Create Structure.
+- [x] Create Structure.
 - [x] Add readme.
 - [ ] Upload the files.
 - [ ] Upload the book also.
