@@ -4,21 +4,6 @@
 
 This project focuses on designing and analyzing two different 4-bit Hybrid Arithmetic Logic Units (ALUs) using 65nm technology. The primary objective is to optimize power consumption and delay while maintaining efficient arithmetic and logical operations.
 
-## Team Members
-
-- **Ashish Kumar** (20331A0414)
-
-- **D. V. V. Sai Ram** (20331A0454)
-
-- **Ch. Divya Shanthi** (21335A0402)
-
-- **B. Gopichand** (20331A0435)
-
-## Guide
-
-- **Mr. A. Ashok Kumar, M.Tech (Ph.D)** \
-   Assistant Professor
-
 ## Outcomes & Achievements
 
 - **Achieved** a **50% reduction** in power consumption by implementing efficient **low-power design techniques.**
@@ -31,26 +16,6 @@ This project focuses on designing and analyzing two different 4-bit Hybrid Arith
 
 - **Optimized power-delay product (PDP) by 41.4%,** reducing it from 44.37 × 10⁻²⁰ to 26 × 10⁻²⁰. Demonstrating superior efficiency over traditional ALUs.
 
-## Table of Contents
-
-- Abstract
-
-- Introduction
-
-- Literature Survey
-
-- ALU Design
-
-- Proposed Hybrid ALUs
-
-- Comparison and Results
-
-- Conclusion
-
-- Future Scope
-
-- References
-
 ## Abstract
 
 The Arithmetic Logic Unit (ALU) is a fundamental component of the CPU that executes arithmetic and logic operations. This project presents a comparative analysis of different ALU designs based on CMOS, Pass Transistor Logic (PTL), and Transmission Gate (TG) techniques. The study aims to improve performance by reducing power consumption and delay.
@@ -62,10 +27,6 @@ A 4-bit ALU is designed using different logic design methodologies. The design i
 1. **Arithmetic Unit** - Performs basic arithmetic operations like addition and subtraction.
 
 2. **Logical Unit** - Handles Boolean operations such as AND, OR, XOR, and NOT.
-
-## Literature Survey
-
-This section provides an overview of existing ALU designs and their performance trade-offs in terms of power, area, and delay.
 
 ## ALU Design
 
@@ -112,10 +73,6 @@ Further research can focus on:
 - Implementing the design in FPGA and ASIC for real-world applications.
 
 - Exploring FinFET technology for better efficiency.
-
-### References
-
-Relevant research papers, books, and articles used in this study.
 
 ### Repository Structure
 
